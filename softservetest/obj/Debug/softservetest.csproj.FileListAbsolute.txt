@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\softservetest\softservetest\bin\Debug\softservetest.exe.config
+C:\Users\User\source\repos\softservetest\softservetest\bin\Debug\softservetest.exe
+C:\Users\User\source\repos\softservetest\softservetest\bin\Debug\softservetest.pdb
+C:\Users\User\source\repos\softservetest\softservetest\obj\Debug\softservetest.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\softservetest\softservetest\obj\Debug\softservetest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\softservetest\softservetest\obj\Debug\softservetest.exe
+C:\Users\User\source\repos\softservetest\softservetest\obj\Debug\softservetest.pdb
